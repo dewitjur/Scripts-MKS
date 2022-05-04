@@ -13,7 +13,7 @@
 	const t = (translateString, options) => I18n.translate(`vehicleChanges.${translateString}`, options);
 	I18n.translations.nl_NL.vehicleChanges = {
 		ids: {
-			container: [27, 32, 45, 29, 51, 61],
+			container: [27, 32, 45, 29, 51, 61, 69],
 			segLeader: [38, 57],
 		},
 		close: "Sluiten",
